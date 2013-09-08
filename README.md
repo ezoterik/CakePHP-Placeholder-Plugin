@@ -19,3 +19,6 @@ Example url: /placeholder/image/(format)/(size)/(text color)/(background color)?
 * **format**: (png|jpg|gif)
 * **size**  : 240x240, 100(100x100)
 * **color** : ffffff
+
+# Old version
+For CakePHP 1.3 https://github.com/ohguma/CakePHP-Placeholder-Plugin
